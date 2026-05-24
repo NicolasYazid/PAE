@@ -7,7 +7,7 @@ import javafx.scene.control.Button;
 public class UsuariosController {
 
     @FXML
-    private Button secondaryButton;
+    private Button btnHome;
 
     @FXML
     private void switchToHome() throws IOException {
